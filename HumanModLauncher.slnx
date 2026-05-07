@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HumanModLauncher.vcxproj" Id="124f69e8-e254-43a3-a3c7-585f64b6b14e" />
+</Solution>
